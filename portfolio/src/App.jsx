@@ -240,7 +240,7 @@ function App() {
 
   const socialLinks = [
     { type: 'github', label: 'GitHub', url: 'https://github.com/oluwasanya01' },
-    { type: 'linkedin', label: 'LinkedIn', url: 'https://www.linkedin.com/in/sanya-idowu-69821b203' },
+    { type: 'linkedin', label: 'LinkedIn', url: 'https://www.linkedin.com/in/sanya-idowu' },
     { type: 'twitter', label: 'Twitter', url: '#' },
     { type: 'instagram', label: 'Instagram', url: 'https://www.instagram.com/thesanyaidowu?igsh=cnhmOHlid3d4cjF23' },
     { type: 'youtube', label: 'YouTube', url: '#' },
