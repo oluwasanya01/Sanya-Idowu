@@ -338,10 +338,13 @@ function App() {
         <div className="professional-summary">
           <h3>Professional Summary</h3>
           <p>
-            I'm passionate about building autonomous systems and robotics that push the boundaries of what's possible.
-            My expertise spans embedded systems, computer vision, autonomous flight, and intelligent robotics. I've built
-            everything from custom drones to swarm robotics systems, always focusing on real-world applications and
-            cutting-edge technology.
+            I'm Oluwasanya Idowu, popularly known as Dwight—a Nigerian Robotics/AI Engineer with an obsession for drone mastery and autonomous systems. As Co-founder & CTO at ySpace, a rocket manufacturing and logistics company with global ambitions, I lead cutting-edge aerospace innovation. I've also served as a Founding member at CurateLearn, an AI-powered company dedicated to providing learners with effective educational tools through mobile and web applications.
+          </p>
+          <p>
+            Throughout my career, I've worked on numerous drone projects and built scalable applications for the drone industry. My expertise spans autonomous flight systems, computer vision, embedded robotics, and intelligent solutions. I'm passionate about building autonomous systems that push the boundaries of what's possible, and I've extended my technical prowess into the finance industry as well, creating comprehensive financial management platforms.
+          </p>
+          <p>
+            My skill set encompasses embedded systems, computer vision, autonomous flight, intelligent robotics, and full-stack development. I focus on real-world applications and cutting-edge technology, having built everything from custom drones to swarm robotics systems and scalable fintech solutions.
           </p>
         </div>
       </section>
