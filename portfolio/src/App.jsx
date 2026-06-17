@@ -300,8 +300,8 @@ function App() {
           <h1>Sanya Idowu</h1>
           <h2>Robotics & AI Engineer</h2>
           <p>
-            I love drones and I build them. Specializing in autonomous systems, computer
-            vision, and embedded robotics for real-world applications.
+            I build drones. I train models. I build systems
+            Specializing in autonomous systems, computer vision, and embedded robotics for real-world applications.
           </p>
           <div className="hero-buttons">
             <a href="#projects" className="btn-primary" style={{ textDecoration: 'none' }}>
